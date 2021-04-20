@@ -1,0 +1,3 @@
+- Skip text
+
+- Play again needs to restart items
